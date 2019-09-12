@@ -20,10 +20,9 @@ description: Personal website
 
 # List of links in the navigation bar
 navbar-links:
-  About Me:
-    - CV: "cv"
-    - List of Publications: "publications"
-  Other: "other"
+  About: "about"
+  Research: "research"
+  Publications: "publications"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -38,10 +37,10 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#615750"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+navbar-children-col: "#615750"
+page-col: "#FFFCFA"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -60,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Marta Brzezinska
+  name: Marta Brzezińska
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
