@@ -1,9 +1,9 @@
 # --- General options --- #
 
 # Name of website
- title: Marta Brzezińska, personal website
+ title: " "
 # Short description of your site
-# description:  Personal website
+ description: ""
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -18,9 +18,8 @@
 
 # List of links in the navigation bar
  navbar-links:
-  Home: "http://www.martabrz.github.io/"
-  About: "about"
-  Research: "research"
+  Home: "https://martabrz.github.io/"
+  About me: "about"
   Publications: "publications"
   Contact: "contact"
 
@@ -36,15 +35,15 @@
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#615750"
-navbar-text-col: "#404040"
-navbar-children-col: "#615750"
-page-col: "#FFFCFA"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+ navbar-col: "#E0E0E0"
+ navbar-text-col: "#404040"
+ navbar-children-col: "#A0A596"
+ page-col: "#FFFCFA"
+ link-col: "#008AFF"
+ hover-col: "#0085A1"
+ footer-col: "#E0E0E0"
+ footer-text-col: "#777777"
+ footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -57,21 +56,21 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+ author:
   name: Marta Brzezińska
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
+ social-network-links:
   rss: false
   email: "marta [dot] brzezinska [at] uzh [dot] ch"
   github: martabrz
   linkedin: marta-a-brzezinska
 
 # Select which share links to show in posts
-share-links-active:
+ share-links-active:
   twitter: false
   facebook: false
   linkedin: false
