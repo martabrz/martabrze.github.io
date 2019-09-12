@@ -1,11 +1,9 @@
 # --- General options --- #
 
 # Name of website
-title: Personal website
-
+ title: Marta Brzezińska, personal website
 # Short description of your site
-#description: Personal website
-
+# description:  Personal website
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -19,8 +17,8 @@ title: Personal website
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-#  Home: "http://www.martabrz.github.io/"
+ navbar-links:
+  Home: "http://www.martabrz.github.io/"
   About: "about"
   Research: "research"
   Publications: "publications"
