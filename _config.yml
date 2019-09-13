@@ -18,7 +18,7 @@
 
 # List of links in the navigation bar
  navbar-links:
-  Home: "https://martabrz.github.io/"
+  Home: "index"
   About: "about"
   Publications: "publications"
   Contact: "contact"
