@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 <b>Research interests:</b>   
-    * topological states of matter, including topological [crystalline] insulators and semimetals, non-Hermitian topological phases
+    * topological states of matter, including topological [crystalline] insulators and semimetals, non-Hermitian topological phases  
     * numerical methods for electronic systems: exact diagonalization, density functional theory, machine learning
 
 <b>Research experience:</b>  
