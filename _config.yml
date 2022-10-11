@@ -19,8 +19,6 @@
 # List of links in the navigation bar
  navbar-links:
   Home: "index"
-  About: "about"
-  Publications: "publications"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -56,15 +54,12 @@
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
- author:
-  name: Marta Brzezińska
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
  social-network-links:
-  rss: false
   email: "marta [dot] brzezinska [at] epfl [dot] ch"
   github: martabrz
   linkedin: marta-a-brzezinska
